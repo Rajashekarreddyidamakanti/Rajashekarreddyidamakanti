@@ -1,0 +1,14 @@
+Aim:
+To write a C program to simulate a Deterministic Finite Automata.
+
+Program:
+#include<stdio.h>
+#include<string.h>
+#define max 20
+@@ -31,3 +35,7 @@ int main()
+	else
+	printf("don't accept\n'");
+}
+
+Resuult:
+C program to simulate a Deterministic Finite Automata was executed succesfully.
